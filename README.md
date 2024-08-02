@@ -10,10 +10,6 @@ This project involves cleaning a dataset of world layoffs using SQL. The dataset
   - `standardize_data.sql`: Standardizes the data, fixing errors and inconsistencies.
   - `handle_nulls.sql`: Handles null values appropriately.
   - `clean_data.sql`: Final cleanup of the data.
-- `data/`: Contains the raw data file.
-  - `layoffs_data.csv`: The raw data file from Kaggle.
-- `docs/`: Contains documentation for the project.
-  - `project_description.md`: Detailed description of the project, objectives, and methods used.
 
 ## Instructions
 
